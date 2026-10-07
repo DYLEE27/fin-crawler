@@ -1,0 +1,4 @@
+2026-10-07 21:16:10,032 [INFO] 수집 성공: requests 2.34.2
+2026-10-07 21:16:11,303 [ERROR] HTTP 오류 404: https://pypi.org/no-such-page-xyz-123/
+2026-10-07 21:16:11,304 [ERROR] 수집 실패(건너뜀): https://pypi.org/no-such-page-xyz-123/
+2026-10-07 21:16:11,305 [WARNING] robots.txt 불허 — 건너뜀: https://pypi.org/simple/requests/
